@@ -1,7 +1,3 @@
-# This will be a discord bot.
-# The bot token is: MTA1NDA2MzU3MDIwNTI3ODMzOQ.Gqqlbu.jf5j5dPRfHr-pRenj5UsolqPcivVd0lZzAzLbA
-# The bot id is: 1054063570205278339
-
 import discord
 import discord.ext.commands as commands
 import requests
