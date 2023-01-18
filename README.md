@@ -1,1 +1,1 @@
-# Str-mpris---Norge
+# Strømpris - Norge
