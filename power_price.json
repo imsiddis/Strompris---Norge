@@ -1,0 +1,43 @@
+{
+    "price_today": {
+        "now": "132.29",
+        "avg": "152.26",
+        "min": "104.51",
+        "max": "183.60 \u00d8re"
+    },
+    "areas": {
+        "omraade": [
+            "Omr\u00e5de",
+            "\u00d8ST",
+            "S\u00d8R",
+            "VEST",
+            "MIDT",
+            "NORD"
+        ],
+        "snitt": [
+            "Snitt",
+            "152.26 \u00d8re",
+            "152.26 \u00d8re",
+            "152.95 \u00d8re",
+            "99.50 \u00d8re",
+            "56.34 \u00d8re"
+        ],
+        "min": [
+            "Min",
+            "104.51 \u00d8re",
+            "104.51 \u00d8re",
+            "104.83 \u00d8re",
+            "47.73 \u00d8re",
+            "34.66 \u00d8re"
+        ],
+        "max": [
+            "Maks",
+            "183.60 \u00d8re",
+            "183.60 \u00d8re",
+            "183.60 \u00d8re",
+            "157.55 \u00d8re",
+            "94.50 \u00d8re"
+        ]
+    },
+    "cheapest_time": "Str\u00f8mprisen vil v\u00e6re mindre enn snittpris  i dag kl: 01:00, 07:00, 21:00, 22:00, 23:00"
+}
