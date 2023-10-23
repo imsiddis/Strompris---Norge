@@ -124,10 +124,14 @@ def export_json():
 def waiting_animation(duration):
     animation = "|/-\\"
     idx = 0
+    start_time = time.time()
+    print('Henter strømdata fra nettsiden...', end="\r")
     for i in range(duration):
-        print(animation[idx % len(animation)], end="\r")
+        print(f'Henter strømdata fra nettsiden... {animation[idx % len(animation)]}', end="\r")
         idx += 1
         time.sleep(0.1)
+    end_time = time.time()
+    print(f'Strømdata hentet fra nettsiden. Lagrer i power_price.json. Tid brukt: {end_time - start_time:.2f} sekunder')
 
 def create_logs():
     if not os.path.exists("logs.txt"):
